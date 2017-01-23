@@ -20,7 +20,7 @@
 
 如何在单个文件中构建你的 CSS 代码
 
-**No.7: 让 CSS 和 JaceScript 代码分离**
+**No.7: 让 CSS 和 JavaScript 代码分离**
 
 为什么混合的 CSS 和 JavaScript 是大忌？
 
